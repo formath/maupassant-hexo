@@ -1,11 +1,11 @@
 fancybox: true ## If you want to use fancybox please set the value to true.
-disqus: formath ## Your disqus_shortname, e.g. username
+disqus: ## Your disqus_shortname, e.g. username
 gitment:
-  enable: false ## If you want to use Gitment comment system please set the value to true.
-  owner: ## Your GitHub ID, e.g. username
-  repo: ## The repository to store your comments, make sure you're the repo's owner, e.g. imsun.github.io
-  client_id: ## GitHub client ID, e.g. 75752dafe7907a897619
-  client_secret: ## GitHub client secret, e.g. ec2fb9054972c891289640354993b662f4cccc50
+  enable: true ## If you want to use Gitment comment system please set the value to true.
+  owner: formath ## Your GitHub ID, e.g. username
+  repo: "gitment-comments" ## The repository to store your comments, make sure you're the repo's owner, e.g. imsun.github.io
+  client_id: 8a4c0293487dce64e3ec ## GitHub client ID, e.g. 75752dafe7907a897619
+  client_secret: ab8ff650582d6f3320ac6258b16ac5ab12a286c8 ## GitHub client secret, e.g. ec2fb9054972c891289640354993b662f4cccc50
 uyan: ## Your uyan_id. e.g. 1234567
 livere: ## Your livere data-uid, e.g. MTAyMC8zMDAxOC78NTgz
 changyan: ## Your changyan appid, e.g. cyrALsXc8
@@ -56,12 +56,12 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: Github
+  - title: 全球最大同性交友网站
     url: http://www.github.com
-  - title: site-name2
-    url: http://www.example2.com/
-  - title: site-name3
-    url: http://www.example3.com/
+  - title: 绿化一条街
+    url: http://soccer.hupu.com/
+  - title: 美团技术团队
+    url: https://tech.meituan.com/
 
 timeline:
   - num: 1
